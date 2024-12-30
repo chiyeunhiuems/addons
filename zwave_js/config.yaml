@@ -50,6 +50,7 @@ schema:
   disable_controller_recovery: bool?
   disable_watchdog: bool?
   safe_mode: bool?
+  ## Vm0weGQxSXhiRmRYV0d4VFltdHdUMVp0ZUhkVU1WVjNXa2M1YWxac1ZqTldiVEZIWVVaS2RWRnNiRnBOUmxwTVZsVmFWMVpWTVVWaGVqQTk= what is this???
 stage: stable
 startup: services
 timeout: 30
